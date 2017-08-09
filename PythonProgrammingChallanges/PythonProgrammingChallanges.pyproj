@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9d8710fc-4511-45c9-8bbe-bd530380fe6f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PythonProgrammingChallanges.py</StartupFile>
+    <StartupFile>00-NameGenerator.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="PythonProgrammingChallanges.py" />
+    <Compile Include="00-NameGenerator.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
